@@ -1,2 +1,1 @@
-# Replace the line below with the snippet from AdMob (Apps → app-ads.txt). It uses your publisher ID (pub-...).
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-9753650781577608, DIRECT, f08c47fec0942fa0
